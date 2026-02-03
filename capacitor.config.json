@@ -1,0 +1,5 @@
+{
+  "appId": "com.pomodoro.app",
+  "appName": "Pomodoro Timer",
+  "webDir": "dist"
+}
