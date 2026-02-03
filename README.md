@@ -183,12 +183,6 @@ pomodoro-app/
 
 ---
 
-## 貢献
-
-バグ報告や機能リクエストは、[Issues](https://github.com/your-username/pomodoro-app/issues) からお願いします。
-
----
-
 ## ライセンス
 
 このプロジェクトは [MIT License](LICENSE) の下で公開されています。
