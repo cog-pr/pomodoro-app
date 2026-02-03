@@ -179,7 +179,7 @@ pomodoro-app/
 ## スクリーンショット
 
 ### ホーム画面
-![ホーム画面](screenshots/home.jpg)
+![ホーム画面](screenshots/home.png)
 
 ---
 
