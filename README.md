@@ -178,8 +178,16 @@ pomodoro-app/
 
 ## スクリーンショット
 
+## 📸 スクリーンショット
+
 ### ホーム画面
 ![ホーム画面](screenshots/home.png)
+
+### タイマー画面
+![タイマー画面](screenshots/timer.png)
+
+### 統計画面
+![統計画面](screenshots/statistics.png)
 
 ---
 
@@ -204,3 +212,4 @@ pomodoro-app/
 - [Chart.js](https://www.chartjs.org/) - 統計グラフの描画
 - [Vite](https://vitejs.dev/) - 高速な開発環境
 - [Capacitor](https://capacitorjs.com/) - クロスプラットフォーム対応
+                
